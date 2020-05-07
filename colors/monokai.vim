@@ -22,10 +22,10 @@ hi Cursor       guibg=fg
 "hi CursorColumn
 hi CursorLine   guibg=#3E3D32
 hi Directory    guifg=#66D9EF gui=none
-hi DiffAdd      guifg=bg guibg=#A6E22E
-hi DiffChange   guifg=bg guibg=#E6DB74
-hi DiffDelete   guifg=bg guibg=#F92672
-hi DiffText     guifg=bg guibg=#E6DB74
+hi DiffAdd      guifg=fg guibg=#385206
+hi DiffChange   guifg=fg guibg=#786d08
+hi DiffDelete   guifg=fg guibg=#660629
+hi DiffText     guifg=fg guibg=#786d08
 hi ErrorMsg     guifg=#F92672 guibg=bg gui=none
 hi VertSplit    guifg=#3B3A32 guibg=bg gui=none
 hi Folded       guifg=#75715E guibg=bg gui=none
@@ -234,8 +234,4 @@ hi link xmlTagName Red
 hi link xmlAttrib Green
 hi link xmlProcessing Red
 hi link xmlProcessingdelim White
-
-
-
-
 
